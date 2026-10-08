@@ -1,0 +1,6 @@
+{
+  "name": "Grooming Canino | Peluquería y Estética para Perros",
+  "description": "Servicios profesionales de grooming canino, baño, estética, deslanado, corte de uñas, plucking y stripping. Atención personalizada y servicio a domicilio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
